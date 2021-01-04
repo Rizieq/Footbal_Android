@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Footbal_Android</string>
+    <string name="title_home">Home</string>
+    <string name="title_schedule">Schedule</string>
+
+    <string-array name="country_football">
+        <item>England</item>
+        <item>England</item>
+        <item>England</item>
+        <item>England</item>
+        <item>England </item>
+    </string-array>
+
+    <string-array name="location_football">
+        <item>Holloway, London</item>
+        <item>Aston, Birmingham</item>
+        <item>Falmer, Brighton, East Sussex, England</item>
+        <item>Harry Potts Way, Burnley, Lancashire</item>
+        <item>Fulham, London </item>
+    </string-array>
+
+    <string-array name="stadium_football">
+        <item>Emirates Stadium</item>
+        <item>Villa Park</item>
+        <item>Amex Stadium</item>
+        <item>Turf Moor</item>
+        <item>Stamford Bridge</item>
+    </string-array>
+
+    <string-array name="team_football">
+        <item>Arsenal</item>
+        <item>Aston Villa</item>
+        <item>Brighton</item>
+        <item>Burnley</item>
+        <item>Chelsea</item>
+    </string-array>
+
+    <string-array name="leguage_football">
+        <item>English Premier League</item>
+        <item>English Premier League</item>
+        <item>English Premier League</item>
+        <item>English Premier League</item>
+        <item>English Premier League</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/arsenal</item>
+        <item>@drawable/aston_villa</item>
+        <item>@drawable/brighton</item>
+        <item>@drawable/burnly</item>
+        <item>@drawable/chelsea</item>
+
+    </array>
+</resources>
