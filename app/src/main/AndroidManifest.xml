@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Footbal_Android">
+        <activity android:name=".ui.home.DetailActivity"></activity>
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name">
